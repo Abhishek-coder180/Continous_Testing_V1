@@ -2,4 +2,8 @@ Test case to perform login activity for an ecommerce website
 Step 1: Enter username
 Step 2: Enter password
 Step 3: Click on login button
-Step 4: Login successfull
+Step 4: Login successful
+
+Step 5: Enter invalid username
+Step 6: Enter invalid password
+Step 7: unable to login
